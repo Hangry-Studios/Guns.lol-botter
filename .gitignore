@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment/Proxies
+proxies.txt
+.env
+
+# Playwright/Browsers
+.auth/
+test-results/
